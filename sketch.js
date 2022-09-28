@@ -6,6 +6,8 @@ let clrs = [
 '#cf5792', //middle strip 2
 '#8e7cc3', //middle bottom 3
 '#4a79Ae' //bottom 4
+
+	//color var
 ]
 
 
