@@ -1,9 +1,9 @@
 
 let clrs = [
 '#E27F34', //top 0
-'#FEF254', //middle top 1
-'#A36C33', //middle strip 2
-'#042060', //middle bottom 3
+'##6ac592', //middle top 1
+'#cf5792', //middle strip 2
+'#1065aa', //middle bottom 3
 '#3778AE' //bottom 4
 ]
 
